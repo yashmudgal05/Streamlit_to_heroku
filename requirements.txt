@@ -4,10 +4,8 @@ pandas
 numpy
 matplotlib
 seaborn
-tkinter
 google_trans_new
 tensorflow
 textblob
-csv
 selenium
 
